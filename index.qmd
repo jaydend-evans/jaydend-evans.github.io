@@ -1,11 +1,20 @@
+commit---
+title: "Jayden Evans"
+image: "file:///Users/jaydenevans/Desktop/git/headshot.jpeg"
+toc: false
+about:
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/jayden-evans-b5380a241/
+    - text: GitHub
+      href: https://github.com/jaydend-evans
+    - text: Email
+      href: mailto:jaydenevans@ucsb.edu
 ---
-title: "jaydend-evans.github.io"
----
 
-This is a Quarto website.
+# Introduction
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-
-```
+Hi I'm Jayden Evans and this is my website!

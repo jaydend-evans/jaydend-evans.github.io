@@ -2,8 +2,12 @@
 title: "About"
 ---
 
-About this site
+Here is a short bio about myself...
 
-```{r}
-1 + 1
-```
+I am from Riverside County, CA and grew up playing sports and watching sports such as baseball, basketball, and football. My number one interest is music and I am always listening to music or attempting to play music. I enjoy many genres such as rock, rap, metal, and pop. In my free time I like to stay active whether that be working out, climbing, running, or playing basketball. I also enjoy the outdoors and going for walks by the beach.
+
+------------------------------------------------------------------------
+
+## Education
+
+I graduated from Elsinore High School with a 4.1 GPA where I also played baseball and basketball. I am currently finishing up my third year at UCSB where I am studying for a double major in Economics and Sociology. I have future hopes to enroll in a graduate program, possibly in Environmental Studies.

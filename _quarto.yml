@@ -1,19 +1,26 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "jaydend-evans.github.io"
+  title: "Jayden Evans"
   navbar:
+    background: primary
     left:
       - href: index.qmd
         text: Home
+      - index.qmd
       - about.qmd
+      - music.qmd
+      - papers.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
+    mainfont: Merriweather
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 

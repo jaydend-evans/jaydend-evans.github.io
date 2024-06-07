@@ -1,0 +1,37 @@
+---
+title: "Music"
+---
+
+I mentioned in my bio how I am a big music fan and I wanted to highlight some of my favorite live concerts I have been to and share some photos.
+
+### ---
+
+### Ethel Cain
+
+Ethel Cain is one of my favorite artists who makes indie rock, alternative pop, and some gothic music. Her live performance was amazing and her voice creates an intriguing atmosphere.
+
+![](images/ethel.jpg){fig-align="center" width="200" height="250"}
+
+### The Cure
+
+The Cure are my favorite band and I was introduced to them by my mom. I attended this concert with my mom and my sister, and it was probably my most enjoyable concert experience even though our view was far.
+
+![](images/thecure.jpg){fig-align="center"}
+
+### Kendrick Lamar
+
+My favorite rapper is Kendrick Lamar who I had the honor of seeing live twice and this picture is from the second time at Outsidelands festival in San Francisco. His music is very powerful and he is a childhood favorite of mine. This performance was such a fun time.
+
+![](images/kendrick.jpg){fig-align="center" width="281" height="380"}
+
+### Lana Del Rey
+
+Lana Del Rey makes very melancholy and sad indie pop music usually dealing with romantic topics and seeing her live was a very ethereal experience. This was at the same festival where I saw the previously mentioned Kendrick Lamar and Ethel Cain performances.
+
+![](images/lana.jpg){fig-align="center"}
+
+### Slowdive
+
+The last and most recent concert was seeing the band Slowdive who are from the 1990s and make shoegaze and dream pop music. This was in Ventura, so it was the most local show and they put on an amazing performance.
+
+![](images/slowdive.jpg){fig-align="center"}
