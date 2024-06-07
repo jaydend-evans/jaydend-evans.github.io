@@ -1,6 +1,6 @@
-commit---
+---
 title: "Jayden Evans"
-image: "file:///Users/jaydenevans/Desktop/git/headshot.jpeg"
+image: "headshot.jpeg"
 toc: false
 about:
   template: trestles
