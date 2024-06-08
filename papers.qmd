@@ -8,20 +8,20 @@ Going into my fourth year at UCSB I have reflected on the papers I have written 
 
 This paper was for a European History class and covers the history of European Imperialism and some decolonization movements such as the Algerian War.
 
-[Effects of Imperialism](file:///Users/jaydenevans/Downloads/evans_Hist4cPaper.pdf)
+![](evans_Hist4cPaper.pdf){fig-align="center" width="913" height="200"}
 
 For this next paper, I wrote about some African history and how there has been a sort of revisionist history and not only a physical colonization over the people of Africa, but also a colonization of the history.
 
-[Damaging Effects of Colonial Historiography](file:///Users/jaydenevans/Downloads/BL%20ST%2049A%20Research%20Paper.pdf)
+![](BL ST 49A Research Paper.pdf){fig-align="center" width="2613" height="200"}
 
 Moving into my sociology papers, this one is on Karl Marx's concept of the primitive accumulation of capital covered in volume of his series "Capital".
 
-[Primitive Accumulation](file:///Users/jaydenevans/Downloads/SOC%20185M%20Paper%20(1).pdf)
+![](SOC 185M Paper (1).pdf){fig-align="center" width="2138" height="200"}
 
 These next two papers were on films, the first being the film *Hunger* which covers the experiences of IRA prisoners during the hunger strikes amidst the Troubles in Northern Ireland.
 
-[Hunger as an Anti-Carceral Tool](file:///Users/jaydenevans/Downloads/SOC%20146%20Essay.pdf)
+![](SOC 146 Essay.pdf){fig-align="center" width="1725" height="200"}
 
 This last paper is on the movie *Moonlight* and covers topics of gender, race and class in a character analysis of the protagonist Chiron.
 
-[Gender Under the Moonlight](file:///Users/jaydenevans/Downloads/SOC%20144S%20Paper%20(2).pdf)
+![](SOC 144S Paper (2).pdf){fig-align="center" width="2088" height="200"}
